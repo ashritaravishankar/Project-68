@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background:linear-gradient( #03bafc 15%, #fcf003 80%);
+}
+mark{
+    background-color: #fcf003
+}
